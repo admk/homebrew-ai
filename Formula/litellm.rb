@@ -1,7 +1,7 @@
 class Litellm < Formula
   desc "LiteLLM CLI tool"
   homepage "https://github.com/BerriAI/litellm"
-  url "https://github.com/BerriAI/litellm/archive/refs/tags/v1.0.0.tar.gz" # Replace with actual version
+  url "https://github.com/BerriAI/litellm/archive/refs/tags/v1.72.6-stable.tar.gz"
   sha256 "" # Replace with actual sha256
   license "MIT"
 
