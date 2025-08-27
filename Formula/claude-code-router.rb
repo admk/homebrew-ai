@@ -2,7 +2,7 @@ class ClaudeCodeRouter < Formula
   desc "Claude Code Router - Route Claude Code requests to various LLM providers"
   homepage "https://github.com/musistudio/claude-code-router"
   url "https://registry.npmjs.org/@musistudio/claude-code-router/-/claude-code-router-1.0.43.tgz"
-  sha256 "847da43369d812516fe4f54e1b8ecba3a4dbe7ee6211ebac187cc517f0fe84dd"
+  sha256 "c769b3f9e325439c62cc21dfe5495a907673e278dae2f3741858fefaf0e3e0bb"
   license "MIT"
 
   depends_on "node"
