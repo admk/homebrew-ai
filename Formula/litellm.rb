@@ -1,8 +1,8 @@
 class Litellm < Formula
   desc "LiteLLM CLI tool"
   homepage "https://github.com/BerriAI/litellm"
-  url "https://github.com/BerriAI/litellm/archive/refs/tags/v1.72.6-stable.tar.gz"
-  sha256 "48901e240422d6b6b88a8c56ffbe8e93c182b61a6d55f6cd3093e79a32086149"
+  url "https://github.com/BerriAI/litellm/archive/refs/tags/v1.75.8-stable.tar.gz"
+  sha256 "0aa4971e8cbfed23415496e7058f459a6b871026d6629925d57670937083a1ac"
   license "MIT"
 
   depends_on "python@3.11"
